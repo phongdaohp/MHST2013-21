@@ -1,19 +1,30 @@
 MHST2013-21
-===========
+Tích hợp OBM và OpenRoad
 
-Tên dự án: Tích hợp OBM và OpenRoad
+Giới thiệu
 
-Thời gian thực hiện: 0h ngày 16/6/2013 và kết thúc vào 0h ngày 17/9/2013. Mốc giữa cuộc thi là ngày 31/7/2013.
+OBM là phần mềm nguồn mở cho máy chủ thư điện tử.
 
-Wiki dự án: https://github.com/phongdaohp/MHST2013-21/wiki
+OpenRoad là phần mềm nguồn mở cho Cổng thông tin chia sẻ tài nguyên nguồn mở cho khu vực Nhà nước, xuất phát gốc từ các dự án OpenRay và JoinUp.
 
-Mentor: Anh Trương Anh Tuấn - tuanta@iwayvietnam.com 
+Mục đích của dự án là nhằm thiết lập cơ chế Single Sign-On để người dùng Openroad có thể sử dụng ngay lập tức chức năng gửi/nhận thư điện tử với OBM.
 
-Co-mentor: Anh Nguyễn Năng Thắng  - thangnn@iwayvietnam.com
+Chi tiết ý tưởng dự án: MHST2013-21
 
-Team Members:
+Kênh thông tin
 
-Phạm Anh Toàn (TL) - 
-Đào Văn Phong - daovanphongkq@gmail.com
-Nguyễn Việt Hưng - 
-Sinh viên Đại học Dân lập Hải Phòng
+IRC: #openroad (irc.freenode.net)
+Kỹ năng yêu cầu
+
+Lập trình thành thạo PHP
+Hiểu cách thức xây dựng CAS Client Integration Module
+Sử dụng thành thạo HĐH GNU/Linux (ưu tiên Fedora) và các công cụ hỗ trợ lập trình trên GNU/Linux (vi/vim, geany, git...)
+Thành viên
+
+Phạm Anh Toàn (trưởng nhóm), toanphamanh2012 (at) gmail (dot) com
+Nguyễn Việt Hưng, hung.nguyen.198 (at) gmail (dot) com
+Đào Văn Phong
+Mentor
+
+Mentor chính: Trương Anh Tuấn, tuanta (at) iwayvietnam (dot) com
+Co-mentor: Nguyễn Năng Thắng, thangnn (at) iwayvietnam (dot) com
