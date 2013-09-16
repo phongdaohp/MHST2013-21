@@ -1,4 +1,5 @@
 MHST2013-21
+
 Tích hợp OBM và OpenRoad
 
 Giới thiệu
@@ -22,8 +23,11 @@ Sử dụng thành thạo HĐH GNU/Linux (ưu tiên Fedora) và các công cụ 
 Thành viên
 
 Phạm Anh Toàn (trưởng nhóm), toanphamanh2012 (at) gmail (dot) com
+
 Nguyễn Việt Hưng, hung.nguyen.198 (at) gmail (dot) com
-Đào Văn Phong
+
+Đào Văn Phong, daovanphongkq@gmail.com
+
 Mentor
 
 Mentor chính: Trương Anh Tuấn, tuanta (at) iwayvietnam (dot) com
