@@ -31,4 +31,5 @@ Nguyễn Việt Hưng, hung.nguyen.198 (at) gmail (dot) com
 Mentor
 
 Mentor chính: Trương Anh Tuấn, tuanta (at) iwayvietnam (dot) com
+
 Co-mentor: Nguyễn Năng Thắng, thangnn (at) iwayvietnam (dot) com
